@@ -1,0 +1,56 @@
+/*
+Plugin Name: MagicPush
+Description: Style for the plugin.
+Version: 1.0
+Author: Rakesh Mandal
+Author URI: www.rakeshmandal.com
+*/
+
+/* Normal button style */
+.button-accent {
+  background: #007cba;
+  color: #fff;
+  outline: 1px solid #007cba;
+  text-decoration: none;
+  text-shadow: none;
+  white-space: nowrap;
+  width: 100%;
+  justify-content: center;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+
+  margin-top: 10px;
+
+  transition: 150ms ease-out all;
+}
+
+/* Hover button style */
+.button-accent:hover {
+  background: #006ba1;
+}
+
+.button-outline {
+  background: #fff;
+  color: #007cba;
+  outline: 1px solid #007cba;
+  text-decoration: none;
+  text-shadow: none;
+  white-space: nowrap;
+  width: 100%;
+  justify-content: center;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+
+  transition: 150ms ease-out all;
+}
+
+/* Hover button style */
+.button-outline:hover {
+  background: #e9f2f7;
+}
