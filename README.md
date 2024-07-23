@@ -40,7 +40,7 @@ Custom buttons in the post editor for pushing content. <br/>
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/therakeshm/magic-push#MIT-1-ov-file) file for details.
+This project is licensed under the MIT License - see the [LICENSE](#MIT-1-ov-file) file for details.
 
 ## 👨‍💻 Author
 
