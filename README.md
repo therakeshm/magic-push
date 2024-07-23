@@ -33,10 +33,10 @@ MagicPush enables seamless post pushing from WordPress to external APIs. It fetc
 ## 📸 Screenshots
 
 MagicPush settings page for configuring API endpoints.<br/>
-⏳ _**WIP**_
+⏳ _**WORK IN PROGRESS**_
 
 Custom buttons in the post editor for pushing content. <br/>
-⏳ _**WIP**_
+⏳ _**WORK IN PROGRESS**_
 
 ## 📄 License
 
